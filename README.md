@@ -1,5 +1,5 @@
-# Prog.-1-Scratch-projekt-Bartha-Bence
-Prog. 1, Scratch projekt, Bartha Bence
+# Prog.-1-Scratch-projekt
+Prog. 1, Scratch projekt
 
 A zöld zászlóra kattintva elindul a Scratch projekt.
 Az ajtó felett megjelenik, hogy "Kattints Győzire!".
